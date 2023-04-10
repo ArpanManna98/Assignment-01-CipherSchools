@@ -1,0 +1,1 @@
+const schoolIcon = "assets/icons/Cipherschools_icon.png";
